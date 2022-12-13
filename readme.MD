@@ -8,3 +8,6 @@ chain icin node listesi
 icinde rpc, rest, grpc api endpointleri var
 
 https://chains.cosmos.directory/umee
+
+
+misscheck.py her 5 dakikada bir, validators.py ise her saatte bir crontab ile calistiriliyor.
