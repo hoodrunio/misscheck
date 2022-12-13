@@ -1,2 +1,2 @@
 # misscheck
-Application to get missing block counters from cosmos chains. 
+Application to get missing price counters from cosmos chains. 
